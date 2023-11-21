@@ -27,3 +27,5 @@ Or, if you don't want/need a background service you can just run:
 - Check successful installation
 
     php -v
+
+### Mamp
