@@ -29,3 +29,9 @@ Or, if you don't want/need a background service you can just run:
     php -v
 
 ### Mamp
+
+### Packagist
+
+Packages for PHP
+
+<https://packagist.org>
