@@ -7,3 +7,7 @@
 ## Shopify polaris
 
 Frontend components libararies for React
+
+## Ubuntu: deploy magento
+
+<https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-magento-on-ubuntu-14-04>
