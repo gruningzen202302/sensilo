@@ -15,3 +15,23 @@ Frontend components libararies for React
 ## Linode
 
 <https://www.cloudways.com/blog/magento-on-linode/>
+
+## Shopify Storefront
+
+<https://shopify.dev/docs/custom-storefronts/getting-started>
+
+<https://shopify.dev/docs/custom-storefronts/hydrogen-react>
+
+## Hydrogen
+
+<https://youtu.be/mAsM9c2sGjA>
+
+<https://hydrogen.shopify.dev/>
+
+<https://legacy.reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html>
+
+<https://youtu.be/TQQPAU21ZUw>
+
+## Oxigen
+
+<https://shopify.dev/docs/custom-storefronts/oxygen>
