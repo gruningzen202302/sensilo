@@ -2,6 +2,12 @@
 
 <https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html>
 
+## Integrate payments with stripe
+
+<https://stripe.com/docs/connectors/adobe-commerce/install>
+
+<https://stripe.com/docs/payments/finalize-payments-on-the-server>
+
 ## PHP
 
 ## Install on MacOS
