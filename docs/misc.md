@@ -22,6 +22,8 @@ Frontend components libararies for React
 
 ## Shopify Storefront
 
+<https://shopify.dev/docs/apps/getting-started/create?locale=en>
+
 <https://shopify.dev/docs/custom-storefronts/getting-started>
 
 <https://shopify.dev/docs/custom-storefronts/hydrogen-react>
