@@ -1,4 +1,8 @@
-# PHP
+# Magento Adobe Docs
+
+<https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html>
+
+## PHP
 
 ## Install on MacOS
 
@@ -35,3 +39,38 @@ Or, if you don't want/need a background service you can just run:
 Packages for PHP
 
 <https://packagist.org>
+
+## XAMP
+
+<https://www.apachefriends.org/>
+
+## MAMP
+
+- Docs
+<https://www.mamp.info/en/downloads/>
+
+<https://documentation.mamp.info/en/MAMP-Mac/Installation/index.html>
+
+## MariaDB on MacOS
+
+<https://mariadb.com/resources/blog/installing-mariadb-10-1-16-on-mac-os-x-with-homebrew/#:~:text=Installing%20MariaDB%20Server%20on%20Mac%20OS%20X%20with,...%208%208.%20Start%20MariaDB%20...%20More%20items>
+
+## Apache server
+
+    brew install httpd
+
+    brew services start httpd
+    
+    vi /opt/homebrew/etc/httpd/httpd.conf
+
+<https://www.youtube.com/watch?v=xyHlJLjzf1w>
+
+<https://httpd.apache.org/download.cgi>
+
+<https://www.git-tower.com/blog/apache-on-macos/>
+
+<https://tecadmin.net/install-apache-macos-homebrew/#:~:text=1%20Install%20Apache%20on%20macOS.%20Remove%20built-in%20Apache,for%20the%20testing.%204%20Manage%20Apache%20Service>
+
+<https://discussions.apple.com/docs/DOC-250004361>
+
+<https://tomcat.apache.org/>
